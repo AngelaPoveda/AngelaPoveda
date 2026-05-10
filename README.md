@@ -9,15 +9,13 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre mí**
-
-<picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
+## <picture>
+  <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px">
 </picture>
 
 <br>
 
-- 🎓 Estudiante de Ingeniería de Sistemas e Informática de la Universidad Tecnológica del Perú
+- 🎓 Estudiante de Ingeniería de Sistemas
 - 💻 Interesada en el desarrollo web y desarrollo de software
 - 🌱 Actualmente aprendiendo Java, Python, Spring Boot, Git y tecnologías web
 - 🧁 Desarrollando proyectos web, sistemas y páginas e-commerce
@@ -137,3 +135,7 @@
 ## ✨ ¡Gracias por visitar mi perfil! ✨
 
 </div>
+
+---
+
+Última edición: 2026
