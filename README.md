@@ -11,6 +11,7 @@
 
 ## <picture>
   <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250px">
+  Sobre mí
 </picture>
 
 <br>
@@ -67,33 +68,42 @@
 
 <br>
 
-- **Extras**:
-
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</p>
-
-<br>
 <br>
 
 -----
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub </b>
+## 💼 Proyectos Destacados
 
 <br>
 
-<div align="center">
+<ul>
 
-<a href="https://github.com/AngelaPoveda/">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelaPoveda&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FF69B4&icon_color=FFB6C1&text_color=D3D3D3&bg_color=0,000000,2C003E" width="450"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AngelaPoveda&show_icons=true&locale=es&layout=compact&line_height=20&title_color=FF69B4&icon_color=FFB6C1&text_color=D3D3D3&bg_color=0,000000,2C003E" width="375"/>
-
-</a>
-</div>
+<li>
+  <b>🍰 Sugar Pastelería</b> - Página web moderna para una pastelería con carrito de compras y pedidos por WhatsApp.
+  <br><br>
+</li>
 
 <br>
+
+<li>
+  <b>☕ Cafetería Tertulia</b> - Sistema y página web para gestión y promoción de una cafetería.
+  <br><br>
+</li>
+
+<br>
+
+<li>
+  <b>🎵 Sistema Escuela de Música</b> - Sistema académico desarrollado en Java usando estructuras de datos.
+  <br><br>
+
+</li>
+
+</ul>
+
+<br>
+
+💡 <i>Siempre creando nuevos proyectos y aprendiendo nuevas tecnologías.</i>
+
 <br>
 
 -----
@@ -107,7 +117,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/TU-LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/angela-fiorella-poveda-morillo-8163012a7/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-Angela%20Poveda-405DE6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </li>
@@ -116,7 +126,7 @@
 
 <li>
 <a href="mailto:angelafpoveda.m05@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-Angela%20Poveda-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Angela%20Poveda-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </li>
 
@@ -139,3 +149,18 @@
 ---
 
 Última edición: 2026
+```
+
+## Cosas que debes cambiar
+
+* `TU-USUARIO-GITHUB` → tu username real de GitHub
+* `TU-LINKEDIN` → tu perfil de LinkedIn
+* `angelafpoveda.m05@gmail.com` → tu correo profesional
+
+## Cómo usarlo
+
+1. Crea un repositorio con el mismo nombre de tu usuario de GitHub.
+2. Crea un archivo `README.md`.
+3. Copia todo el código.
+4. Pega el contenido y guarda los cambios.
+5. Tu perfil se verá automáticamente en GitHub.
