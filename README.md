@@ -117,7 +117,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/angela-fiorella-poveda-morillo-8163012a7/" target="_blank">
+<a href="https://www.linkedin.com/in/angela-fiorella-poveda-morillo-8163012a7/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-Angela%20Poveda-405DE6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </li>
