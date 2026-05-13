@@ -145,22 +145,3 @@
 ## ✨ ¡Gracias por visitar mi perfil! ✨
 
 </div>
-
----
-
-Última edición: 2026
-```
-
-## Cosas que debes cambiar
-
-* `TU-USUARIO-GITHUB` → tu username real de GitHub
-* `TU-LINKEDIN` → tu perfil de LinkedIn
-* `angelafpoveda.m05@gmail.com` → tu correo profesional
-
-## Cómo usarlo
-
-1. Crea un repositorio con el mismo nombre de tu usuario de GitHub.
-2. Crea un archivo `README.md`.
-3. Copia todo el código.
-4. Pega el contenido y guarda los cambios.
-5. Tu perfil se verá automáticamente en GitHub.
